@@ -11,7 +11,7 @@
 ## Run The Application ⚙️
 
 1. Clone the project - `git clone https://github.com/GPT-Wizard/gpt-reviewer.git`
-2. Enter folder - `cd react-gpt-reviewer`
+2. Enter folder - `cd gpt-reviewer`
 3. Install dependencies - `npm install`
 4. Create environment file - Refer [`.env.example`](https://github.com/GPT-Wizard/gpt-reviewer/blob/main/.env.example) and create `.env` file with OpenAI api key
 5. Run Application - `npm start`
