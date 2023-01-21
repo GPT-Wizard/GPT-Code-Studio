@@ -16,6 +16,10 @@
 4. Create environment file - Refer [`.env.example`](https://github.com/GPT-Wizard/gpt-reviewer/blob/main/.env.example) and create `.env` file with OpenAI api key
 5. Run Application - `npm start`
 
+## Deploy With Vercel
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FGPT-Wizard%2Fgpt-reviewer&env=REACT_APP_OPENAI_API_KEY&envDescription=PLACE%20YOUR%20OPEN%20AI%20API%20KEY&envLink=https%3A%2F%2Fbeta.openai.com%2Faccount%2Fapi-keys&project-name=gpt-reviewer&repository-name=GPT-Reviewer&redirect-url=https%3A%2F%2Fgithub.com%2FGPT-Wizard%2Fgpt-reviewer&demo-title=GPT%20Reviewer&demo-description=Your%20own%20GPT%20bot%20is%20deployed&demo-url=https%3A%2F%2Fgpt-reviewer-thoughtworks-wizards.vercel.app%2F)
+
 ## Status 🚧
 
 GPT Reviewer project is still in progress. MVP will be out soon.
