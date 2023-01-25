@@ -3,13 +3,15 @@ import Navbar from "./components/navbar";
 import CodeWriter from "./pages/codeWriter";
 import SecurityThreatsChecker from "./pages/securityThreatsChecker";
 import TestWriter from "./pages/testWriter";
-import CodeComplaianceChecker from "./pages/generateDoc";
+import GenerateDocumentation from "./pages/generateDoc";
+import GenerateServerSidePerformanceTests from "./pages/generateServerSidePerformanceTests";
 
 const NavbarItems = {
   TestWriter: "Write unit and functional tests",
   CodeWriter: "Write code from tests",
   SecurityThreatsChecker: "Check for application security threats",
   GenerateDocumentation: "Generate documentation",
+  GenerateServerSidePerformanceTests: "Generate server-side performance tests",
 };
 
 function App() {
@@ -28,8 +30,13 @@ function App() {
         <SecurityThreatsChecker />
       )}
       {currentPage === NavbarItems.GenerateDocumentation && (
-        <CodeComplaianceChecker />
+        <GenerateDocumentation />
       )}
+
+      {currentPage === NavbarItems.GenerateServerSidePerformanceTests && (
+        <GenerateServerSidePerformanceTests />
+      )}
+      
     </div>
   );
 }
