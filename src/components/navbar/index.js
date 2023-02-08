@@ -1,7 +1,5 @@
 import { Dialog, Transition } from "@headlessui/react";
 import React, { Fragment, useState } from "react";
-import Logo from "../../assets/images/logo.png";
-import TWLogo from "../../assets/images/tw-logo.svg";
 import MenuIcon from "../../assets/images/menu-icon.svg";
 import XMarkIcon from "../../assets/images/x-mark-icon.svg";
 
@@ -48,14 +46,9 @@ function Navbar(props) {
                         <div className="flex items-center justify-between">
                           <div className="flex">
                             <img
-                              src={TWLogo}
-                              className="h-6 border-r-mist-gray border-r-[1px] mr-3 pr-3"
-                              alt="Thoughtworks Logo"
-                            />
-                            <img
-                              src={Logo}
-                              className="h-6"
-                              alt="GPT Reviewer Logo"
+                              src="https://images.ctfassets.net/a0typynlh1op/1HrGeYM9nc5OdyrCcO766O/9bc3370b58c3c1eb81c241b4947d35f2/Group_13419.png"
+                              className="h-8 border-r-mist-gray"
+                              alt="Thoughtworks GPT Code Studio"
                             />
                           </div>
                           <div className="ml-3 flex h-7 items-center">
@@ -100,11 +93,10 @@ function Navbar(props) {
       <div className="flex justify-between py-6 pt-7 font-inter items-center">
         <div className="flex">
           <img
-            src={TWLogo}
-            className="h-8 border-r-mist-gray border-r-[1.5px] mr-4 pr-4"
-            alt="Thoughtworks Logo"
+            src="https://images.ctfassets.net/a0typynlh1op/1HrGeYM9nc5OdyrCcO766O/9bc3370b58c3c1eb81c241b4947d35f2/Group_13419.png"
+            className="h-10 border-r-mist-gray"
+            alt="Thoughtworks GPT Code Studio"
           />
-          <img src={Logo} className="h-8" alt="GPT Reviewer Logo" />
         </div>
         <button type="button" onClick={() => setShowSidebar(true)}>
           <img src={MenuIcon} className="h-10" alt="Menu" />
