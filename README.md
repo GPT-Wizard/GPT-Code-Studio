@@ -6,12 +6,12 @@
 
 Unleash the power of AI with Code Studio by GPT Wizard - the ultimate tool for software development. Backed by the innovative minds at Thoughtworks, Code Studio harnesses the state-of-the-art GPT 3 API to revolutionize your coding workflow. Say goodbye to tedious manual tasks and hello to efficient, automated code generation. Whether you're writing unit and functional tests, documenting your code, finding security threats, or generating server-side performance tests, Code Studio has got you covered. So, why wait? Unleash the wizard within and start creating magic with Code Studio today!
 
-## Requirements
+## Requirements ✅
 
 - Node JS (Version > 16.x)
 - OpenAI GPT-3 API Key ([Get one now!](https://platform.openai.com/account/api-keys))
 
-## Getting Started Guide
+## Getting Started Guide ⚙️
 
 ### One-Click Deploy with Vercel
 1. Click on the button below
