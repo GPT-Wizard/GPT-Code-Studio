@@ -25,11 +25,11 @@ Unleash the power of AI with Code Studio by GPT Wizard - the ultimate tool for s
 ### Traditional Installation
 1. Clone the project: 
 ```
-git clone https://github.com/GPT-Wizard/gpt-reviewer.git
+git clone https://github.com/GPT-Wizard/GPT-Code-Studio.git
 ```
 2. Enter the project folder: 
 ```
-cd gpt-reviewer
+cd GPT-Code-Studio
 ```
 3. Install dependencies: 
 ```
