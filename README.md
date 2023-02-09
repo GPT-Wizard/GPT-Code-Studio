@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.ctfassets.net/a0typynlh1op/1HrGeYM9nc5OdyrCcO766O/9bc3370b58c3c1eb81c241b4947d35f2/Group_13419.png" alt="Thoughtworks GPT Code Studio" style="width: 600px;" />
+  <img src="https://images.ctfassets.net/a0typynlh1op/5aPCnZL7TaLWE900sWKbRp/3f983bd339b80fd36ce4647f59af43bf/thoughtworks-code-studio.png?fm=jpg&fl=progressive" alt="Thoughtworks GPT Code Studio" style="width: 650px;" />
 </div>
 
 <br/>
