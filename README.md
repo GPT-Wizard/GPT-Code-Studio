@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.ctfassets.net/a0typynlh1op/1qi0CzHrF1jJ0o2NbShkXn/0d9d3adfcd802735632fd7ac838945d6/code-studio-high-resolution-logo-color-on-transparent-background__1_.png?fm=jpg&fl=progressive" alt="Thoughtworks GPT Code Studio" style="height: 150px;" />
+  <img src="https://images.ctfassets.net/a0typynlh1op/1qi0CzHrF1jJ0o2NbShkXn/0d9d3adfcd802735632fd7ac838945d6/code-studio-high-resolution-logo-color-on-transparent-background__1_.png?fm=jpg&fl=progressive" alt="Thoughtworks GPT Code Studio" />
 </div>
 
 <br/>
