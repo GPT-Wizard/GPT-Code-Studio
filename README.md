@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://images.ctfassets.net/a0typynlh1op/5aPCnZL7TaLWE900sWKbRp/3f983bd339b80fd36ce4647f59af43bf/thoughtworks-code-studio.png?fm=jpg&fl=progressive" alt="Thoughtworks GPT Code Studio" style="width: 650px;" />
+  <img src="https://images.ctfassets.net/a0typynlh1op/1qi0CzHrF1jJ0o2NbShkXn/0d9d3adfcd802735632fd7ac838945d6/code-studio-high-resolution-logo-color-on-transparent-background__1_.png?fm=jpg&fl=progressive" alt="Thoughtworks GPT Code Studio" style="height: 150px;" />
 </div>
 
 <br/>
 
-Unleash the power of AI with Code Studio by GPT Wizard - the ultimate tool for software development. Backed by the innovative minds at Thoughtworks, Code Studio harnesses the state-of-the-art GPT 3 API to revolutionize your coding workflow. Say goodbye to tedious manual tasks and hello to efficient, automated code generation. Whether you're writing unit and functional tests, documenting your code, finding security threats, or generating server-side performance tests, Code Studio has got you covered. So, why wait? Unleash the wizard within and start creating magic with Code Studio today!
+Unleash the power of AI with Code Studio by GPT Wizard - the ultimate tool for software development. Code Studio harnesses the state-of-the-art GPT 3 API to revolutionize your coding workflow. Say goodbye to tedious manual tasks and hello to efficient, automated code generation. Whether you're writing unit and functional tests, documenting your code, finding security threats, or generating server-side performance tests, Code Studio has got you covered. So, why wait? Unleash the wizard within and start creating magic with Code Studio today!
 
 ## Requirements ✅
 
