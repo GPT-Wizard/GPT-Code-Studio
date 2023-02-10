@@ -46,7 +46,7 @@ function Navbar(props) {
                         <div className="flex items-center justify-between">
                           <div className="flex">
                             <img
-                              src="https://images.ctfassets.net/a0typynlh1op/1HrGeYM9nc5OdyrCcO766O/9bc3370b58c3c1eb81c241b4947d35f2/Group_13419.png"
+                              src="https://images.ctfassets.net/a0typynlh1op/25MWkRF186uhl9pIB1tDPV/2969b9f28c9ad8ca39fa888dd7514994/code-studio-high-resolution-logo-color-on-transparent-background__2_.png"
                               className="h-8 border-r-mist-gray"
                               alt="Thoughtworks GPT Code Studio"
                             />
@@ -93,7 +93,7 @@ function Navbar(props) {
       <div className="flex justify-between py-6 pt-7 font-inter items-center">
         <div className="flex">
           <img
-            src="https://images.ctfassets.net/a0typynlh1op/1HrGeYM9nc5OdyrCcO766O/9bc3370b58c3c1eb81c241b4947d35f2/Group_13419.png"
+            src="https://images.ctfassets.net/a0typynlh1op/25MWkRF186uhl9pIB1tDPV/2969b9f28c9ad8ca39fa888dd7514994/code-studio-high-resolution-logo-color-on-transparent-background__2_.png"
             className="h-10 border-r-mist-gray"
             alt="Thoughtworks GPT Code Studio"
           />
