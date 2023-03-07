@@ -4,12 +4,20 @@
 
 <br/>
 
-Unleash the power of AI with Code Studio by GPT Wizard - the ultimate tool for software development. Code Studio harnesses the state-of-the-art GPT 3 API to revolutionize your coding workflow. Say goodbye to tedious manual tasks and hello to efficient, automated code generation. Whether you're writing unit and functional tests, documenting your code, finding security threats, or generating server-side performance tests, Code Studio has got you covered. So, why wait? Unleash the wizard within and start creating magic with Code Studio today!
+Introducing Code Studio - Your AI-Powered Assistant for Efficient Software Development
 
-## Requirements ✅
+Code Studio is a tool designed to assist developers in various software development tasks, leveraging the power of the GPT3 API. With Code Studio, you can automate several tedious and time-consuming tasks, allowing you to focus on more critical aspects of your development process.
 
-- Node JS (Version > 16.x)
-- OpenAI GPT-3 API Key ([Get one now!](https://platform.openai.com/account/api-keys))
+Here are some of the tasks Code Studio can help you with:
+1. Generate Unit Tests and Functional Tests from your Code
+2. Generate Code from Unit Tests
+3. Identify and Check Application Security Threats
+4. Generate Comprehensive Documentation for your Code
+5. Generate Server-Side Performance Tests
+
+Code Studio is not a replacement for coding; it is a tool to help you become a more productive and efficient developer. With Code Studio, you can generate high-quality code and documentation in no time, leaving you with more time to work on critical aspects of your project.
+
+Try Code Studio today and experience the power of AI-driven software development.
 
 ## Getting Started Guide ⚙️
 
